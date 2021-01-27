@@ -1,4 +1,3 @@
-
 <div style="display: flex; flex-direction: column; justify-content: center;">
   <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://boatrentalmanagement.com/wp-content/uploads/2018/11/stellarlogo_stack.png" style="flex width: 300px; object-fit: contain;" alt="Stellar IMS Logo">
   <h1 style="text-align: center;">
@@ -47,8 +46,13 @@ After I receive and review your summary and estimates, I will shoot you a Calend
   - [3.4 Workflow](#34-workflow)
   - [3.5 Project Approach](#35-project-approach)
   - [3.5.1 Project Methodology (PMM)](#351-project-methodology-pmm)
-- [3.6 Initial High-Level Timeline](#36-initial-high-level-timeline)
-  - [3.6.1 Cost - Benefit Analysis](#361-cost---benefit-analysis)
+- [4. Project Management Estimates](#4-project-management-estimates)
+    - [Purpose](#purpose)
+    - [Scope management](#scope-management)
+- [4.1 Initial High-Level Timeline](#41-initial-high-level-timeline)
+  - [4.2 Cost - Benefit Analysis](#42-cost---benefit-analysis)
+    - [4.2.1 Project Estimate Question Guide](#421-project-estimate-question-guide)
+    - [Schedule and budget management](#schedule-and-budget-management)
 
 ## 1. Purpose
 
@@ -403,17 +407,7 @@ At Stellar IMS, we configure a reliable, scalable, and secure cloud-based applic
   - CircleCI
   - TravisCI
 
-## 3.6 Initial High-Level Timeline
-
-The timetable for the project is shown in the following section
-
-### 3.6.1 Cost - Benefit Analysis
-
-The Cost-Benefit Analysis consists of the project cost and expenses until its go-live date, including some post-implementation expenses. In addition, the post-implementation savings and ongoing costs are juxtaposed.
-
-Cost / benefit calculated with currency: <strong>$USD</strong> <input type="checkbox" checked="true" />
-
-**Actuals in USD**
+<!-- **Actuals in USD**
 <table>
     <tr>
       <td>&nbsp;</td>
@@ -510,44 +504,67 @@ Cost / benefit calculated with currency: <strong>$USD</strong> <input type="chec
       <td>Total</td>
       <td>1,200</td>
     </tr>
-</table>
+</table> -->
 
-<!-- ### 4. Project Management Estimates
+## 4. Project Management Estimates
 
 Proper control and well-structured processes can prevent low-quality results, never-ending projects, going over budget, and late delivery.
 
 #### Purpose
 
-Our Project Management Office is responsible for the successful delivery of projects from the initiation stage through final delivery. Our project managers monitor each project on a daily basis and respond to all emerging issues.
+Project Management is responsible for the successful delivery of projects from the initiation stage through final delivery. Project management duties include the monitoring of each project on a daily basis and respond to all emerging issues.
 
 #### Scope management
 
 Our PMO refines, validates, and manages the scope of the project. The team defines all tasks and breaks down complex activities into smaller manageable ones.
 
-> What you get
-
+> **What you get**
+>
 > **Work breakdown structure (WBS)**
 >
 > A work breakdown structure (WBS) provides a visual representation of all tasks and lays the foundation for time and money estimates.
+
+## 4.1 Initial High-Level Timeline
+
+The timetable for the project is shown in the following section
+
+<div style='width:100%; margin:0 auto; background:#000; border:1px #cbcbcb solid;'>
+<iframe src='https://prod.teamgantt.com/gantt/schedule/?ids=2499670&public_keys=dtyO0jzdVhYS&zoom=d100&font_size=12&estimated_hours=1&assigned_resources=0&percent_complete=1&documents=0&comments=0&col_width=355&hide_header_tabs=1&menu_view=0&resource_filter=1&name_in_bar=1&name_next_to_bar=0&resource_names=1&resource_hours=1#user=&company=&custom=&date_filter=&hide_completed=false&color_filter=' style='width:100%; height:800px; border-bottom:1px #cbcbcb solid;' frameborder='0'></iframe>
+<a href='http://teamgantt.com' target='_blank' style='display:block; text-align:right; background:url(https://prod.teamgantt.com/images/powered_by_teamgantt.png) right center no-repeat; height:0; padding-top:20px; overflow:hidden; padding-right:1px;'>Online Gantt Chart</a>
+</div>
+
+### 4.2 Cost - Benefit Analysis
+
+The Cost-Benefit Analysis consists of the project cost and expenses until its go-live date, including some post-implementation expenses. In addition, the post-implementation savings and ongoing costs are juxtaposed.
+
+Cost / benefit calculated with currency: <strong>$USD</strong> <input type="checkbox" checked="true" />
+
+<div style="background:#eeeeee;border:1px #cbcbcb solid;margin:0 auto;width:100%" data-reactroot="">
+  <iframe frameBorder="0" src="https://prod.teamgantt.com/gantt/schedule/?ids=2499670&amp;public_keys=dtyO0jzdVhYS&amp;zoom=d100&amp;font_size=12&amp;col_width=255&amp;documents=0&amp;comments=0&amp;estimated_hours=1&amp;assigned_resources=1&amp;percent_complete=0&amp;hide_header_tabs=1&amp;menu_view=0&amp;resource_filter=0&amp;name_in_bar=1&amp;name_next_to_bar=0&amp;resource_names=1#" style="background:#eeeeee;border:1px #cbcbcb solid;margin:0 auto;width:100%;height:500px"></iframe><a href="http://teamgantt.com" style="display:block;text-align:right;background:url(https://prod.teamgantt.com/images/powered_by_teamgantt.png) right center no-repeat;height:0;padding-top:20px;overflow:hidden;padding-right:1px" target="_blank">Online Gantt Chart</a>
+</div>
+
+#### 4.2.1 Project Estimate Question Guide
+
+Whether you’re estimating a project based on a formal request, a discussion, or an email from a stakeholder or manager, you need to know as
+many project details as possible before you can provide a realistic estimate of time or cost.
 
 #### Schedule and budget management
 
 Our PMO facilitates the estimation process. Our project managers collect estimates from the development team and experts and measure risks. They develop and maintain schedule and cost management plans to keep the project within your budget and time limits.
 
 > What you get
-
-> **Work performance report**
 >
+> **Work performance report**
 > A work performance report describes updates on the progress of your project. This report shows where the project stands in terms of the planned schedule and budget.
 
+<!--
 #### Scope change management
 
 Sometimes you need to change the priorities of tasks or respond to new business challenges by changing the scope. Our PMO checks change requests from our clients on a daily basis and prioritizes all current tasks in the project.
 
-> What you get
-
-> **Change log**
+> **What you get:**
 >
+> **Change log**
 > A change log records all changes made to the project and is updated regularly so you’re always aware of possible implications.
 
 #### Communication and stakeholder management
