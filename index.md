@@ -1,5 +1,9 @@
+---
+layout: default
+title: Home
+---
 
-<div style="display: flex; flex-direction: column; justify-content: center;">
+<!-- <div style="display: flex; flex-direction: column; justify-content: center;">
   <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://boatrentalmanagement.com/wp-content/uploads/2018/11/stellarlogo_stack.png" style="flex width: 300px; object-fit: contain;" alt="Stellar IMS Logo">
   <h1 style="text-align: center;">
     Stellar 2021 Test Project - Frontend Developer
@@ -7,7 +11,7 @@
   <h2 style="text-align: center; margin-top: 0px">
     Task Management - Edit Task
   </h2>
-</div>
+</div> -->
 
 ## Overview
 
