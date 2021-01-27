@@ -539,9 +539,7 @@ The Cost-Benefit Analysis consists of the project cost and expenses until its go
 
 Cost / benefit calculated with currency: <strong>$USD</strong> <input type="checkbox" checked="true" />
 
-<div style="background:#eeeeee;border:1px #cbcbcb solid;margin:0 auto;width:100%" data-reactroot="">
-  <iframe frameBorder="0" src="https://prod.teamgantt.com/gantt/schedule/?ids=2499670&amp;public_keys=dtyO0jzdVhYS&amp;zoom=d100&amp;font_size=12&amp;col_width=255&amp;documents=0&amp;comments=0&amp;estimated_hours=1&amp;assigned_resources=1&amp;percent_complete=0&amp;hide_header_tabs=1&amp;menu_view=0&amp;resource_filter=0&amp;name_in_bar=1&amp;name_next_to_bar=0&amp;resource_names=1#" style="background:#eeeeee;border:1px #cbcbcb solid;margin:0 auto;width:100%;height:500px"></iframe><a href="http://teamgantt.com" style="display:block;text-align:right;background:url(https://prod.teamgantt.com/images/powered_by_teamgantt.png) right center no-repeat;height:0;padding-top:20px;overflow:hidden;padding-right:1px" target="_blank">Online Gantt Chart</a>
-</div>
+![Gantt Chart](./assets/cost-benefit-gantt-chart.png)
 
 #### 4.2.1 Project Estimate Question Guide
 
@@ -556,6 +554,10 @@ Our PMO facilitates the estimation process. Our project managers collect estimat
 >
 > **Work performance report**
 > A work performance report describes updates on the progress of your project. This report shows where the project stands in terms of the planned schedule and budget.
+
+<div style="background:#eeeeee;border:1px #cbcbcb solid;margin:0 auto;width:100%" data-reactroot="">
+  <iframe frameBorder="0" src="https://prod.teamgantt.com/gantt/schedule/?ids=2499670&amp;public_keys=dtyO0jzdVhYS&amp;zoom=d100&amp;font_size=12&amp;col_width=255&amp;documents=0&amp;comments=0&amp;estimated_hours=1&amp;assigned_resources=1&amp;percent_complete=0&amp;hide_header_tabs=1&amp;menu_view=0&amp;resource_filter=0&amp;name_in_bar=1&amp;name_next_to_bar=0&amp;resource_names=1#" style="background:#eeeeee;border:1px #cbcbcb solid;margin:0 auto;width:100%;height:500px"></iframe><a href="http://teamgantt.com" style="display:block;text-align:right;background:url(https://prod.teamgantt.com/images/powered_by_teamgantt.png) right center no-repeat;height:0;padding-top:20px;overflow:hidden;padding-right:1px" target="_blank">Online Gantt Chart</a>
+</div>
 
 <!--
 #### Scope change management
